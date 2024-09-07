@@ -1,6 +1,6 @@
 # Cosmic-Classifer
-
-# **Exoplanet Classification Apps**
+# **Exoplanet Confirmation Prediction: This app predicts whether an exoplanet is confirmed, a candidate, or a false positive based on the features provided.")
+**
 
 ## **Introduction**
 
