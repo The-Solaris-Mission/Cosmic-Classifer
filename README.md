@@ -106,3 +106,7 @@ streamlit run app.py
 - **Visualization**: Add data visualizations to represent the dataset features more effectively.
 - **Deployment**: Deploy the apps on cloud platforms like Heroku or AWS for public access.
 
+## App Pictures
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/dfa88c2e-cf70-4979-9e59-fd0303c889a1">
+
+
